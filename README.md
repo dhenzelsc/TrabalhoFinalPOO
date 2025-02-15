@@ -1,11 +1,12 @@
 # TrabalhoFinalPOO
-Trabalho para matéria de Orientação a Objetos - Sistema de Clínica Médica
-Trabalho-OO-FGA0158
+- Trabalho para matéria de Orientação a Objetos
+- Sistema de Clínica Médica
+- Trabalho-OO-FGA0158
 
-UnB - Universidade de Brasília
-FGA - Faculdade do Gama
-OO - Orientação por Objetos
-Prof. André Luiz Peron Martins Lanna
+- UnB - Universidade de Brasília
+- FGA - Faculdade do Gama
+- OO - Orientação a Objetos
+- Prof. André Luiz Peron Martins Lanna
 
 # Integrantes do Projeto:
 - Eduarda Emmy Silva Nunes - 231012183
